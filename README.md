@@ -7,7 +7,7 @@ It can be attached to the right support socket.
 
 for further information on how the mount works see comments or the following pictures:
 http://thinkwiki.de/images/4/4a/Dock_4338_4.jpg  
-http://thinkwiki.de/images/9/99/Dock_4338_1.jpg  
-http://thinkwiki.de/Datei:Port_Replicator_3.jpg  
+http://thinkwiki.de/images/9/99/Dock_4338_1.jpg
+http://thinkwiki.de/images/f/f7/Port_Replicator_3.jpg
 
-takes about 4 hrs on a Ultimaker with slow settings
+takes about 4 hrs on an Ultimaker with slow settings
